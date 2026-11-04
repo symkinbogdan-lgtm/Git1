@@ -14,9 +14,10 @@
 
 \## Що використано
 
-\- Git
+* &#x20;Git
+* &#x20;GitHub
+* &#x20;Visual Studio
+* Зміни з гілки develop.
 
-\- GitHub
 
-\- Visual Studio
 
